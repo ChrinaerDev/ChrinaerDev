@@ -5,7 +5,7 @@
 
 - 📝 Creating a blog to write articles about my work and discoveries
 
-- 📫 How to reach me **chrinaer@gmail.com**
+- 📫 How to reach me **geraudchrinaer@gmail.com**
 
 - ⚡ Fun fact **"Debugging is like being the detective in a crime movie where you’re also the murderer — but you left no clues, and now you’re blaming the keyboard." 🕵️‍♂️💻**
 
